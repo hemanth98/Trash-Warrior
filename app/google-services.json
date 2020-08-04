@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "436425193436",
+    "firebase_url": "https://trashwarrior-42826.firebaseio.com",
+    "project_id": "trashwarrior-42826",
+    "storage_bucket": "trashwarrior-42826.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436425193436:android:e19cd06414bc87860b0119",
+        "android_client_info": {
+          "package_name": "com.example.trashwarrior"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436425193436-7s7ls91lb2gf7u79atg7p5l1jqodfrht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trashwarrior",
+            "certificate_hash": "76c9b923fe152952d0ba7e7fab329b33d418d64a"
+          }
+        },
+        {
+          "client_id": "436425193436-g7ervjjqqspf6troa8d4b8r1qu0rnb99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfjg9JqiRRamTBWVOh1reJzGNmfqi0bfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436425193436-g7ervjjqqspf6troa8d4b8r1qu0rnb99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
